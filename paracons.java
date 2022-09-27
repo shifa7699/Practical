@@ -14,8 +14,8 @@ System.out.println(age+" "+name);
 }
 public static void main(String[] args)
 {
-parameterizedcons d=new parametrizedcons("50","Karan");
-parameterizedcons d1=new parametrizedcons("25","Rohit");
+parameterizedcons d=new parametrizedcons(50,"Karan");
+parameterizedcons d1=new parametrizedcons(25,"Rohit");
 d.show();
 d1.show();
 }
