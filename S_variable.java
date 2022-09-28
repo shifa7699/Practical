@@ -18,8 +18,8 @@ class Staticvariable
 {
 public static void main(String args[])
 {
-Staticvariable1 s1=new Staticvariable1(111,"Pallabi",5000);
-Staticvariable1 s2= new Staticvaiable1(555,"Amit",6000);
+Staticvariable1 s1=new Staticvariable1(111,"Pallabi",5000)
+Staticvariable1 s2= new Staticvaiable1(555,"Amit",6000)
 s1.display();
 s2.display();
 }
