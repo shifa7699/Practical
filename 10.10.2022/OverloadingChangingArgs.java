@@ -1,4 +1,4 @@
-//Method Overloading - same name method with
+//Method Overloading - same name method with different parameters
 public class OverloadingChangingArgs {
 	static int sum(int a, int b) { //Two arguments
 		return a+b; }
