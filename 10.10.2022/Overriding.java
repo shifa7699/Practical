@@ -1,12 +1,12 @@
 // Creating parent class
-class Overriding {
+class TestOverriding {
 	void run()
 	{
 		System.out.println("running mode on");
 	}
 }
 	//Creating child class
-	class TestOverriding extends Overriding
+	class Overriding extends TestOverriding
 	{
 		//Defining same name method as its declared in the parent class
 	void run()
