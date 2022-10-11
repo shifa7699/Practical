@@ -3,7 +3,7 @@
 
 class Shape1 //parent class
 {
-	void print() //Prent class method
+	void print() //Parent class method
 	{
 		System.out.println("print Circle");
 	}
