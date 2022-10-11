@@ -14,18 +14,17 @@ class Size1 extends Shape1 //Child class
 	{
 		System.out.println("Print Triangle");
 	}
-		void display()
-		{
-			System.out.println("Print Nothing");
-		}
-		void show() //Final method
-		{
-			super.print(); //Refer immediate parent method
-			display();
-			
-		}
+	void display()
+	{
+		System.out.println("Print Nothing");
 	}
-
+	void show() //Final method
+	{
+		super.print(); //Refer immediate parent method
+		display();
+		print();
+	}
+}
 public class SuperMethod 
 {
 	public static void main(String args[])
