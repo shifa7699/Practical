@@ -10,7 +10,7 @@ class Size extends Shape //Child class
 	void print() // Child class method
 	{
 		System.out.println("Print Triangle");
-		System.out.println(super.name); //super.args
+		System.out.println(super.name);
 	}
 }
 public class Super1 
