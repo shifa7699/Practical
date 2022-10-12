@@ -1,7 +1,7 @@
 
 /*class Binding 
 {
-	private void display() {
+	private void display() { //Static Binding
 			System.out.println("Samjhe???");
 		}
 		void show()
@@ -17,7 +17,7 @@
 }*/
 class TestBinding
 {
-void show()
+void show() //Dynamic Binding
 {
 System.out.println("ab samjhe??");
 }}
