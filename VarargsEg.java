@@ -4,7 +4,7 @@ public class VarargsEg
 {
 	static void show(String...text)
 	{ //using varargs
-		for(String s:text)
+		for(String s:text) //for ecah loop
 		{
 			System.out.println(s);
 		}
