@@ -1,10 +1,10 @@
 package pack.com;
 
-interface Multiple_in1 //
+interface Multiple_in1 //first parent interface
 {
 	void show();
 }
-interface Multiple_in2
+interface Multiple_in2 //second parent interface
 {
 	void show();
 }
