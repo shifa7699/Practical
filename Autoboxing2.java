@@ -1,5 +1,5 @@
 package pack.com;
-
+//collection framework (arrayList)
 import java.util.ArrayList;
 
 public class Autoboxing2 
@@ -9,7 +9,7 @@ public class Autoboxing2
 		//Creating an empty array list of primitive type
 		a1.add(1); //adding the int primitive type value by using add()
 		a1.add(2);
-		a1.add(3);
+		a1.add(3); //autoboxing
 		System.out.println("ArrayList: "+a1);
 	}
 }
