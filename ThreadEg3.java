@@ -19,7 +19,7 @@ public class ThreadEg3 extends Thread
 		ThreadEg3  t=new ThreadEg3();
 		ThreadEg3  t1=new ThreadEg3();
 		ThreadEg3  t2=new ThreadEg3();
-		t.start();
+		t.runt();
 		t1.run();
 		t2.run();
 	}
